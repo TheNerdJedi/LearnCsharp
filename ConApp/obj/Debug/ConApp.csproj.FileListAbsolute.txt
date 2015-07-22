@@ -1,0 +1,9 @@
+C:\Users\Russell\Documents\GitHub\exVS\ConApp\ConApp\bin\Debug\ConApp.exe.config
+C:\Users\Russell\Documents\GitHub\exVS\ConApp\ConApp\bin\Debug\ConApp.exe
+C:\Users\Russell\Documents\GitHub\exVS\ConApp\ConApp\bin\Debug\ConApp.pdb
+C:\Users\Russell\Documents\GitHub\exVS\ConApp\ConApp\obj\Debug\ConApp.csprojResolveAssemblyReference.cache
+C:\Users\Russell\Documents\GitHub\exVS\ConApp\ConApp\obj\Debug\ConApp.exe
+C:\Users\Russell\Documents\GitHub\exVS\ConApp\ConApp\obj\Debug\ConApp.pdb
+C:\Users\Russell\Documents\GitHub\LearnC#\ConApp\bin\Debug\ConApp.exe.config
+C:\Users\Russell\Documents\GitHub\LearnC#\ConApp\obj\Debug\ConApp.exe
+C:\Users\Russell\Documents\GitHub\LearnC#\ConApp\obj\Debug\ConApp.pdb
